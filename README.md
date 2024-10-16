@@ -16,11 +16,11 @@ Game of Thrones Personality Matcher is a web-based application built with Stream
 #  How It Works
 The project uses t-SNE (t-distributed Stochastic Neighbor Embedding) to visualize character personalities in a 2D space. The distances between these characters are used to recommend a similar personality match based on the selected character.
 
-##Thrones API Integration
+## Thrones API Integration
 The Thrones API (https://thronesapi.com/api/v2/Characters) is used to fetch the character images, adding a visual element to the recommendations.
 
 # Acknowledgements
-Streamlit for the web framework.
-Thrones API for providing Game of Thrones character data.
-Game of Thrones fans for inspiration!
+* Streamlit for the web framework.
+* Thrones API for providing Game of Thrones character data.
+* Game of Thrones fans for inspiration!
 
