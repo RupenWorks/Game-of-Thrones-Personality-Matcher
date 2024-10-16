@@ -1,10 +1,8 @@
 # Game-of-Thrones-Personality-Matcher
-Game of Thrones Personality Matcher is a web-based application built with Streamlit that allows users to select their favorite character from the Game of Thrones series and receive a recommended character that closely matches their personality based on t-SNE clustering.The app fetches data from an API to display character images, creating an engaging and visually appealing experience for users.
+This project is a web-based application built with Streamlit that allows users to select their favorite character from the Game of Thrones series and receive a recommended character that closely matches their personality based on t-SNE clustering. The clustering is derived from analyzing the characters' dialogues, identifying shared patterns and similarities between their spoken words. By comparing how similar characters express themselves, the app provides an engaging experience where users can explore character connections in a unique way.
 
 
-## Game of Thrones Personality Matcher
 
-## Game of Thrones Personality Matcher
 
 ![App Screenshot](Screenshot%202024-10-16%20171527.png)
 
