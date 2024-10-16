@@ -4,4 +4,6 @@ Game of Thrones Personality Matcher is a web-based application built with Stream
 
 ## Game of Thrones Personality Matcher
 
-![App Screenshot](images/Screenshot%202024-10-16%20171527.png)
+## Game of Thrones Personality Matcher
+
+![App Screenshot](Screenshot%202024-10-16%20171527.png)
